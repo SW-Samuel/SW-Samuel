@@ -1,7 +1,7 @@
 <h2 align="left">Hi there 😎, i'm Samuel Rodrigues, welcome to my profile ✌️</h2>
 <h3 align="left">I like to learn about new technologies(💻) and listen to music(🎵🎧).</h3>
 
-- 🎓 studying the 4th period of Computer Science - UIT
+- 🎓 studying the 7th period of Computer Science - UIT
 - 👨‍💻 Always in search of knowledge!
 <h2></h2>
 <h2>🌟 Skills 🌟</h2>
