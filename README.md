@@ -1,4 +1,4 @@
-<img height="100%" src="https://github.com/SW-Samuel/SW-Samuel/blob/main/portfolio1.jpeg"/>
+<img height="600cm" src="https://github.com/SW-Samuel/SW-Samuel/blob/main/portfolio3.jpeg"/>
 <h2 align="left">Hi there 😎, i'm Samuel Rodrigues, welcome to my profile ✌️</h2>
 <h3 align="left">I like to learn about new technologies(💻) and listen to music(🎵🎧).</h3>
 
