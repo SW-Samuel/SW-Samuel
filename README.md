@@ -12,7 +12,7 @@
   <a href="https://github.com/SW-Samuel">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SW-Samuel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SW-Samuel&layout=compact&langs_count=7&theme=dark"/>
-  <img align="right" alt="SW-pic" height="200" style="border-radius:50px;" src="https://github.com/SW-Samuel/SW-Samuel/blob/main/photo.jpeg">
+  <img align="right" alt="SW-pic" height="150" style="border-radius:50px;" src="https://github.com/SW-Samuel/SW-Samuel/blob/main/photo.jpeg">
 </div>
   
 <div> 
