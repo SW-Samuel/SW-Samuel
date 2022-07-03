@@ -1,8 +1,8 @@
-<p>
-   <!--<img src="https://i.imgur.com/3KqY2Wx.jpg" alt="CL Thumb" border="0" width="100%">-->
-   <!--<img src="https://github.com/SW-Samuel/SW-Samuel/blob/main/photo.png" alt="CL Thumb" border="0" width="100%">-->
+<p align = "center">
+<!--    <img src="https://i.imgur.com/3KqY2Wx.jpg" align = "center" alt="CL Thumb" border="0" width="100%"> -->
+   <img src="https://github.com/SW-Samuel/SW-Samuel/blob/main/photo.jpeg" alt="CL Thumb" border="0" width="30%">
 </p>
-<h2 align="left">Hi there 😎, i'm Samuel Rodrigues, welcome to my profile ✌️</h2>
+<h2 align="left">Hi there 😎, I'm Samuel Rodrigues, welcome to my profile ✌️</h2>
 <h3 align="left">I like to learn about new technologies(💻) and listen to music(🎵🎧).</h3>
 
 - 🎓 studying the 7th period of Computer Science - UIT
