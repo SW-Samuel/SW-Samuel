@@ -22,7 +22,7 @@
   <img align="right" alt="SW-pic" height="150" style="border-radius:50px;" src="https://github.com/SW-Samuel/SW-Samuel/blob/main/photo.jpeg">
  </div>
   
-  ![Snake gif](https://github.com/SW-Samuel/SW-Samuel/blob/output/github-contribution-grid-snake.svg)
+  <!--![Snake gif](https://github.com/SW-Samuel/SW-Samuel/blob/output/github-contribution-grid-snake.svg)-->
   
   <p align = "center">
   <!--    <img src="https://i.imgur.com/3KqY2Wx.jpg" align = "center" alt="CL Thumb" border="0" width="100%"> -->
