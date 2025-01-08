@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=👋+HELLO,+MY+NAME+is+Samuel+Rodrigues;I'm+25+years+old;I'm+from+Brasil,+MG;I'm+graduated+in+computer+science;Specialist+in+AI+and+machine+learning!;Be+Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=👋+HELLO,+MY+NAME+is+Samuel+Rodrigues;I'm+25+years+old;I'm+from+Brasil,+MG;I'm+graduated+in+computer+science;Specialist+in+AI+and+machine+learning;Be+Welcome!+:%29)
 
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SW-Samuel&bg_color=0d1117&color=058082&line=058082&point=08565a&area=true&hide_border=true)
 
