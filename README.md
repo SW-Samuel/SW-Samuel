@@ -1,31 +1,34 @@
-<h2 align="left">Hi there 😎, I'm Samuel Rodrigues, welcome to my profile ✌️</h2>
-<h3 align="left">I like to learn about new technologies(💻) and listen to music(🎵🎧).</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-- 🎓 studying the 7th period of Computer Science - UIT
-- 👨‍💻 Always in search of knowledge!
-<h2></h2>
-<h2>🌟 Skills 🌟</h2>
 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="mysql" width="40" height="40"/> </a> 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=👋+HELLO,+MY+NAME+is+Samuel+Rodrigues;I'm+25+years+old;I'm+from+Brasil,+MG;I'm+graduated+in+computer+science;Specialist+in+AI+and+machine+learning!;Be+Welcome!+:%29)
 
-<div>
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SW-Samuel&bg_color=0d1117&color=058082&line=058082&point=08565a&area=true&hide_border=true)
+
+<div align="center">
   <a href="https://github.com/SW-Samuel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SW-Samuel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SW-Samuel&layout=compact&langs_count=7&theme=dark"/>
-<!--    <img align="right" alt="SW-pic" height="100" style="border-radius:50px;" src="https://github.com/SW-Samuel/SW-Samuel/blob/main/photo.jpeg"> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SW-Samuel&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SW-Samuel&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Med-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Med-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Med-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg">
+  <img align="center" alt="Med-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Med-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Med-Tf" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
 </div>
   
+  ##
+ 
 <div> 
 
   <a href="https://www.instagram.com/samuel.sw56/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:samuelrodriguesns308@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/samuel-rodrigues-moreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
- </div>
-  
-  <!--![Snake gif](https://github.com/SW-Samuel/SW-Samuel/blob/output/github-contribution-grid-snake.svg)-->
-  
-  <p align = "center">
-  <!--    <img src="https://i.imgur.com/3KqY2Wx.jpg" align = "center" alt="CL Thumb" border="0" width="100%"> -->
-   <!--  <img src="https://github.com/SW-Samuel/SW-Samuel/blob/main/photo.jpeg" alt="CL Thumb" border="0" width="30%"> -->
-  </p>
+  <a href="https://www.linkedin.com/in/samuel-rodrigues-moreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+
+ 
+</div>
+
+![snake gif](https://github.com/MedeirosWesley/MedeirosWesley/blob/output/github-contribution-grid-snake-dark.svg)
