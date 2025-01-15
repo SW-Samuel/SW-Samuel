@@ -30,5 +30,3 @@
 
  
 </div>
-
-![snake gif](https://github.com/MedeirosWesley/MedeirosWesley/blob/output/github-contribution-grid-snake-dark.svg)
