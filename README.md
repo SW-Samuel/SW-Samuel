@@ -1,15 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=👋+HELLO,+MY+NAME+is+Samuel+Rodrigues;I'm+25+years+old;I'm+from+Brasil,+MG;I'm+graduated+in+computer+science;Specialist+in+AI+and+machine+learning;Be+Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=👋+HELLO,+MY+NAME+is+Samuel+Rodrigues;I'm+27+years+old;I'm+from+Brasil,+MG;I'm+graduated+in+computer+science;Specialist+in+AI+and+machine+learning;Be+Welcome!+:%29)
 
+
+<!-- <div align="center">
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SW-Samuel&bg_color=0d1117&color=058082&line=058082&point=08565a&area=true&hide_border=true)
-
-<div align="center">
   <a href="https://github.com/SW-Samuel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SW-Samuel&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SW-Samuel&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
+</div> -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Med-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Med-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
